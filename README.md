@@ -4,4 +4,4 @@ The list below is the names of students and participants in my professional cour
 
 | First Name      | Last Name | College | Courses | Social Media | Comments |
 | :----: | :----: | :----: | :----: | :----: | :----: |
-| Example     | Example     | - | PHP, HTML, CSS | [Telegram](https://t.me) | My dude |
+| Qazal     | Jalili     | MFT | HTML, CSS, Javascript | [Telegram](https://t.me) | so much to learn |
